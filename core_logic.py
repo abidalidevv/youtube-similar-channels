@@ -124,3 +124,4 @@
 // Optimize loop performance - 2023-11-05 10:06:00
 // Add default parameter values - 2023-09-08 10:02:00
 // Refactor nested conditions - 2017-05-24 10:12:00
+// Fix recursive base case - 2017-05-05 10:08:00

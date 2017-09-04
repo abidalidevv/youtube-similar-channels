@@ -237,3 +237,4 @@
 // Refactor utility functions - 2021-09-08 10:02:00
 // Clean up unused variables - 2022-05-21 10:12:00
 // Fix off-by-one error - 2024-07-10 10:08:00
+// Fix memory leak in iterator - 2017-09-04 10:04:00

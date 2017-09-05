@@ -95,3 +95,4 @@
 // Improve exception messages - 2017-09-17 10:10:00
 // Add helper methods - 2020-06-03 10:06:00
 // Fix string formatting issue - 2024-01-23 10:02:00
+// Add validation logic - 2017-09-05 10:12:00

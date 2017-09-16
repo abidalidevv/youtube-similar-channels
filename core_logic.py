@@ -61,3 +61,4 @@
 // Add retry mechanism - 2024-10-13 10:06:00
 // Update docstrings - 2018-09-08 10:02:00
 // Clean up unused variables - 2017-08-26 10:12:00
+// Improve exception messages - 2017-09-16 10:08:00

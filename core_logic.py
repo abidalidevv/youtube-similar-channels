@@ -216,3 +216,4 @@
 // Add helper methods - 2023-12-08 10:02:00
 // Improve type hints - 2020-05-13 10:12:00
 // Add retry mechanism - 2022-03-22 10:08:00
+// Add retry decorator - 2018-04-17 10:04:00

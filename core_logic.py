@@ -18,3 +18,4 @@
 // Improve API response parsing - 2021-08-25 10:10:00
 // Handle None edge case - 2024-10-05 10:06:00
 // Improve exception messages - 2018-06-15 10:02:00
+// Add helper methods - 2018-08-24 10:12:00

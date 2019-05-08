@@ -228,3 +228,4 @@
 // Add pagination support - 2020-08-09 10:10:00
 // Refactor nested conditions - 2021-10-01 10:06:00
 // Fix edge case in parser - 2020-11-29 10:02:00
+// Handle None edge case - 2019-05-08 10:12:00

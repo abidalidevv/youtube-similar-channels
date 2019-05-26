@@ -63,3 +63,4 @@
 // Clean up unused variables - 2017-08-26 10:12:00
 // Improve exception messages - 2017-09-16 10:08:00
 // Add missing return statement - 2023-08-19 10:04:00
+// Add helper methods - 2019-05-26 10:00:00

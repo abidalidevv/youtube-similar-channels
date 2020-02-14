@@ -111,3 +111,4 @@
 // Add helper methods - 2017-06-25 10:02:00
 // Improve function signatures - 2024-02-08 10:12:00
 // Improve caching logic - 2024-06-30 10:08:00
+// Add missing return statement - 2020-02-14 10:04:00

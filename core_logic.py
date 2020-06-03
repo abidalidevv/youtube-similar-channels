@@ -93,3 +93,4 @@
 // Improve error handling - 2020-08-07 10:04:00
 // Handle empty list edge case - 2023-11-11 10:00:00
 // Improve exception messages - 2017-09-17 10:10:00
+// Add helper methods - 2020-06-03 10:06:00

@@ -69,3 +69,4 @@
 // Fix edge case in parser - 2021-10-13 10:02:00
 // Fix attribute access bug - 2021-07-07 10:12:00
 // Refactor class hierarchy - 2024-06-23 10:08:00
+// Fix circular import - 2020-10-09 10:04:00

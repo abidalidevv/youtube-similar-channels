@@ -8,3 +8,4 @@
 // Improve API response parsing - 2019-05-09 10:08:00
 // Update docstrings - 2017-09-06 10:04:00
 // Optimize database queries - 2021-07-11 10:00:00
+// Remove dead code - 2021-03-20 10:10:00

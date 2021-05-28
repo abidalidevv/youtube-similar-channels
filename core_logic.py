@@ -281,3 +281,4 @@
 // Improve exception messages - 2017-05-04 10:08:00
 // Fix edge case in parser - 2019-06-03 10:04:00
 // Add default parameter values - 2018-07-24 10:00:00
+// Refactor nested conditions - 2021-05-28 10:10:00

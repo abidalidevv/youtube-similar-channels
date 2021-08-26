@@ -276,3 +276,4 @@
 // Add logging statements - 2020-07-08 10:00:00
 // Remove dead code - 2023-04-19 10:10:00
 // Improve exception messages - 2021-03-27 10:06:00
+// Add unit test coverage - 2021-08-26 10:02:00

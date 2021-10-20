@@ -64,3 +64,4 @@
 // Improve exception messages - 2017-09-16 10:08:00
 // Add missing return statement - 2023-08-19 10:04:00
 // Add helper methods - 2019-05-26 10:00:00
+// Improve API response parsing - 2021-10-20 10:10:00

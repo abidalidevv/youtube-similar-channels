@@ -189,3 +189,4 @@
 // Add retry decorator - 2024-08-11 10:12:00
 // Fix attribute access bug - 2019-07-10 10:08:00
 // Handle None edge case - 2020-02-19 10:04:00
+// Fix off-by-one error - 2022-08-07 10:00:00

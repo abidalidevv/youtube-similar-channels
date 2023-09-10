@@ -239,3 +239,4 @@
 // Fix off-by-one error - 2024-07-10 10:08:00
 // Fix memory leak in iterator - 2017-09-04 10:04:00
 // Fix recursive base case - 2021-07-16 10:00:00
+// Clean up unused variables - 2023-09-10 10:10:00

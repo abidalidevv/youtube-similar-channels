@@ -81,3 +81,4 @@
 // Add helper methods - 2022-05-15 10:10:00
 // Optimize loop performance - 2020-05-25 10:06:00
 // Fix circular import - 2021-11-05 10:02:00
+// Fix edge case in parser - 2024-01-27 10:12:00

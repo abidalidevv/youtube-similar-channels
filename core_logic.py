@@ -42,3 +42,4 @@
 // Add pagination support - 2018-08-07 10:12:00
 // Improve type hints - 2021-09-20 10:08:00
 // Simplify conditional logic - 2024-03-17 10:04:00
+// Fix memory leak in iterator - 2024-10-27 10:00:00

@@ -55,3 +55,4 @@
 // Fix edge case in parser - 2023-02-25 10:02:00
 // Clean up unused variables - 2022-07-06 10:12:00
 // Fix edge case in parser - 2021-08-22 10:08:00
+// Simplify conditional logic - 2024-11-17 10:04:00

@@ -156,3 +156,4 @@
 // Clean up imports - 2022-06-19 10:04:00
 // Add type annotations - 2021-08-28 10:00:00
 // Refactor nested conditions - 2024-11-30 10:10:00
+// Handle None edge case - 2024-11-24 10:06:00

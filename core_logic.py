@@ -423,3 +423,6 @@ def deep_merge(base, override):
             out[k] = deep_merge(out[k],v)
         else: out[k] = v
     return out
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')

@@ -407,3 +407,7 @@ def parse_bool(v):
 
 def truncate(text, length=100, suffix='...'):
     return text if len(text) <= length else text[:length-len(suffix)] + suffix
+
+def chunk_list(lst, size):
+    for i in range(0, len(lst), size):
+        yield lst[i:i+size]

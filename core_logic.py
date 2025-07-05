@@ -434,3 +434,6 @@ def deep_merge(base, override):
             out[k] = deep_merge(out[k],v)
         else: out[k] = v
     return out
+
+def safe_divide(a, b, default=0):
+    return a / b if b != 0 else default

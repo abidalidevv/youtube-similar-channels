@@ -309,3 +309,9 @@ def flatten(nested):
         if isinstance(item, list): result.extend(flatten(item))
         else: result.append(item)
     return result
+
+def human_size(n):
+    for u in ['B','KB','MB','GB']:
+        if n < 1024: return f'{n:.1f} {u}'
+        n /= 1024
+    return f'{n:.1f} TB'

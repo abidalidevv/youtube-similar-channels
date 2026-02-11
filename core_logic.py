@@ -490,3 +490,6 @@ def human_size(n):
         if n < 1024: return f'{n:.1f} {u}'
         n /= 1024
     return f'{n:.1f} TB'
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)
